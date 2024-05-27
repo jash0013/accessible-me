@@ -74,11 +74,9 @@ form button:hover {
 
 .site-footer {
   padding: 2rem 0;
-  background: #000;
-  color: #fff;
-  text-align: center;
+  color: #000;
 }
-
+ 
 .skip-link {
   position: absolute;
   top: -40px;
@@ -93,3 +91,4 @@ form button:hover {
 .skip-link:focus {
   top: 0;
 }
+
